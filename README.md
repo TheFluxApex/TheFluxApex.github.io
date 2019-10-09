@@ -13,6 +13,10 @@ I have had the same online name for many years and it&#39;s time for a change&#4
 1. I&#39;m in the process of changing my name on many sites. This is time consuming and not always possible so I plan to make this site the connection between everything I have done and am still doing&#46;
 2. I&#39;ll be continously updating this site with content until all connections have been made&#46;
 
+## My IO Site
+
+[╔ lateralus138 github io ╗](https://lateralus138.github.io "TheFluxApex GitHub IO")
+
 ### Contact Me
 
 [Email](mailto:faithnomoread@yahoo.com "faithnomoread@yahoo&#46;com")
