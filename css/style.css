@@ -6,6 +6,7 @@ body {
     height: 100%;
     margin: 0;
     padding: 0;
+    background-color: #31332c;
 }
 
 .nomarg {
@@ -19,8 +20,9 @@ body {
 #header {
     width: inherit;
     height: 40px;
-    color: #1f1f1f;
-    background-color: #efefef;
+    color: #d2f1d3;
+    background-color: #393b33;
+    border-bottom: 1px solid #667254;
 }
 
 
